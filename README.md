@@ -1,4 +1,4 @@
-# Dark Claude Skills
+# GAS (Google App Script) Claude Skills
 
 Private collection of custom Claude Code skills.
 
